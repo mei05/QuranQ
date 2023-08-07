@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=ED:CA:70:A7:15:12:7B:FB:DA:9C:32:42:80:6E:D7:25:AB:18:B3:7F%3Bcom.nanda.aplikasiquran
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.nanda.aplikasiquran
+
+    SHA-1 certificate fingerprint:
+    ED:CA:70:A7:15:12:7B:FB:DA:9C:32:42:80:6E:D7:25:AB:18:B3:7F
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAM4Gi90NN8r4c8-kLzE2_QsUvbPZ_AePs</string>
+</resources>

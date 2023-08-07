@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "620860751935",
+    "project_id": "quranq-95612",
+    "storage_bucket": "quranq-95612.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620860751935:android:f659682f03124c2c2c388a",
+        "android_client_info": {
+          "package_name": "com.nanda.aplikasiquran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "620860751935-1u21nginn7c1d4qcb999899fe1bjdgqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD266xme-1dVDY7Yne0vFsPIPmPquJT8Wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "620860751935-1u21nginn7c1d4qcb999899fe1bjdgqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
